@@ -8,4 +8,5 @@ a logical schemes interpreter
 <img width="760" alt="image" src="https://user-images.githubusercontent.com/61987774/192142717-c55eebec-f713-4d94-9eac-0f08ef2223e4.png">
 
 the input for a was -43
+
 <img width="760" alt="image" src="https://user-images.githubusercontent.com/61987774/192143155-d3cb691a-6748-4036-bcbb-05dc53cb994b.png">
